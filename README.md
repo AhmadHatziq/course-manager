@@ -14,7 +14,8 @@ This project has been pushed to my [Github repository](https://github.com/AhmadH
 5. Deleting courses
 
 # 1. Registering for an account 
-To register for an account, click the top right of the page, where is says `Log In`
+To register for an account, click the top right of the page, where is says `Log In`.
+
 During registration, the `JavaScript` code will check for the complexity of the user password. If the password does not meet the requirements, there will be an error prompt. 
 
 ![Password does not meet complexity warning](https://raw.githubusercontent.com/AhmadHatziq/cs50x-final-project/master/screenshots/invalid_password.PNG)
@@ -60,7 +61,7 @@ At the editing page, the user will be able to view the current course informatio
 
 For ease of use, the fields have been pre-populated with the current course information. The user only has to edit the cell which he is interested in.
 
-In the example below, the user is changing the 'Course Provider` field from `Harvard university` to `Harvard university via edX`.
+In the example below, the user is changing the `Course Provider` field from `Harvard university` to `Harvard university via edX`.
 
 ![Editing during](https://raw.githubusercontent.com/AhmadHatziq/cs50x-final-project/master/screenshots/edit_during.PNG)
 
@@ -69,7 +70,7 @@ After editing, the user will be redirected to the main page, where he can see th
 ![Editing after](https://raw.githubusercontent.com/AhmadHatziq/cs50x-final-project/master/screenshots/edit_after.PNG)
 
 # 5. Deleting courses
-Courses can be deleted by going to 'Delete Course` at the navigation bar.
+Courses can be deleted by going to `Delete Course` at the navigation bar.
 
 The user can choose which course to delete by choosing the appropriate radio button. Courses can only be deleted one at a time.
 
