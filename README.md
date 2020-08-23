@@ -82,11 +82,35 @@ After deleting the course, the user will be redirected to the main page, where h
 ![Deleting after](https://raw.githubusercontent.com/AhmadHatziq/cs50x-final-project/master/screenshots/delete_after.PNG)
 
 # 6. Developer Guide
-The virtual environment is stored in the `envs` folder.
+
+## 1. Setting up the environment.
+
+Install the dependencies in the `environment.yml` file to a virtual environment.
+
+The virtual environment can be stored in the `envs` folder.
 
 To activate it, run `conda activate ./envs`, with the terminal being in the directory with the `envs` folder.
 
 To deactivate it, run `conda deactivate`.
 
 When the environment is activated, anaconda prompt will change from `(base)` to (`<env-folder-directory>`).
+
+To run the application on a local machine (Windows):
+
+1. Set the flask environment variable to the application.py name.
+`set FLASK_APP=application`
+
+2. Start the flask application.
+`flask run`.
+
+3. Navigate to the http address specified by the terminal window. 
+
+
+
+
+
+
+
+
+
 
