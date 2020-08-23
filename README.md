@@ -12,6 +12,7 @@ This project has been pushed to my [Github repository](https://github.com/AhmadH
 3. Adding courses
 4. Editing courses
 5. Deleting courses
+6. Developer guide
 
 # 1. Registering for an account 
 To register for an account, click the top right of the page, where is says `Log In`.
@@ -79,3 +80,13 @@ The user can choose which course to delete by choosing the appropriate radio but
 After deleting the course, the user will be redirected to the main page, where he can see that the course has now been deleted.
 
 ![Deleting after](https://raw.githubusercontent.com/AhmadHatziq/cs50x-final-project/master/screenshots/delete_after.PNG)
+
+# 6. Developer Guide
+The virtual environment is stored in the `envs` folder.
+
+To activate it, run `conda activate ./envs`, with the terminal being in the directory with the `envs` folder.
+
+To deactivate it, run `conda deactivate`.
+
+When the environment is activated, anaconda prompt will change from `(base)` to (`<env-folder-directory>`).
+
