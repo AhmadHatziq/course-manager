@@ -281,13 +281,15 @@ def login():
 
     # User reached route via GET (as by clicking a link or via redirect)
     else:
-
+        
         # register route will supply argument if a new account is just created
+        
         if ("newly_created_account" in request.args) and (request.args['newly_created_account'] == 'True'):
             flash("Please login with your newly created account")
             return render_template("login.html")
         else:
             return render_template("login.html")
+            
 
 @app.route("/register", methods=["GET", "POST"])
 def register():
