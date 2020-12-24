@@ -4,9 +4,8 @@ This final project serves as a course manager for its users. It allows users to 
 
 As this application is targeted for my own personal use. I have organized the courses to follow my university's academic schedule. 
 
-As part of the course requirements, a video demo of the project can be found here: 
+As part of the course requirements, a video demo of the project can be found [here](https://www.youtube.com/embed/D-7KGnsUYRU?start=1): 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D-7KGnsUYRU?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Features
 1. Registering for an account
