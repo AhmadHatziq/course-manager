@@ -1,4 +1,4 @@
-# cs50x-final-project
+# Course Manager
 # Introduction
 This final project serves as a course manager for its users. It allows users to track what courses they have taken throughout their academic career.
 
