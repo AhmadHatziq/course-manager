@@ -1,10 +1,12 @@
 # cs50x-final-project
 # Introduction
-This final project serves as a course manager for its users. It allows users to track what courses they have taken throughout their lives.
+This final project serves as a course manager for its users. It allows users to track what courses they have taken throughout their academic career.
 
 As this application is targeted for my own personal use. I have organized the courses to follow my university's academic schedule. 
 
-This project has been pushed to my [Github repository](https://github.com/AhmadHatziq/cs50x-final-project), where you can view all the source code. 
+As part of the course requirements, a video demo of the project can be found here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D-7KGnsUYRU?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Features
 1. Registering for an account
