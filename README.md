@@ -6,6 +6,8 @@ As this application is targeted for my own personal use. I have organized the co
 
 As part of the course requirements, a video demo of the project can be found [here](https://www.youtube.com/embed/D-7KGnsUYRU?start=1): 
 
+This project is part of the coursework [CS 50X: Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science).
+
 
 # Features
 1. Registering for an account
